@@ -1,6 +1,6 @@
-# 100-Dagen Workshop
+# 100 dagen Workshop
 
-Een hands-on webontwikkeling workshop waarin leerlingen een "100 dagen" website bouwen met **Tailwind CSS v4** en **jQuery**.
+Een hands-on webdesign workshop waarin leerlingen een "100 dagen" website bouwen met **[Tailwind CSS v4](https://tailwindcss.com/)** en **[jQuery](https://jquery.com/)**.
 
 ## Leerdoelen
 
