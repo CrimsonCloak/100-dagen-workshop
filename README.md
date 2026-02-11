@@ -265,7 +265,7 @@ Voeg een verticale gradient-achtergrond toe:
 
 - `bg-linear-to-b from-neutral-600 to-neutral-900`
 
-Vervang vervolgens het TODO-commentaar over Google Maps door een ingebedde kaart. Gebruik een generator zoals [mapembed.org](https://www.mapembed.org/) om de embed-code te genereren voor het gewenste adres.
+Vervang vervolgens het TODO-commentaar over Google Maps door een ingebedde kaart. Gebruik een generator zoals [mapembed.org](https://www.mapembed.org/) om de embed-code te genereren voor het gewenste adres. Kies voor een responsive kaart!
 
 **Resultaat:**
 
